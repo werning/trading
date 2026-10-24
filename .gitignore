@@ -1,0 +1,4 @@
+# Arbeitsdateien der Skills, nur die Konfiguration wird versioniert
+trader/*
+!trader/config.json
+__pycache__/
